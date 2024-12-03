@@ -6,6 +6,8 @@
 <h5 align="center">Este é um projeto de aplicação web desenvolvido com Java, Spring Boot e PostgreSQL para gerenciar uma rinha de galos. O sistema permite o cadastro e gerenciamento de Clientes, Galos, Condições Físicas e Apostas, possibilitando realizar operações de CRUD (Create, Read, Update, Delete) em todas essas entidades.
 </h5>
 
+<p align="center"><img src="https://github.com/user-attachments/assets/b32db94b-7384-4296-8a3f-a00b7cca8471" width=600></p>
+
 <h1></h1>
 
 <h3 align="center">FUNCIONALIDADES</h4>
